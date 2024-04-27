@@ -1,1 +1,1 @@
-!(https://github.com/ayushdas97/pixels_reveal/blob/main/sample.jpg)
+![sample](https://github.com/ayushdas97/pixels_reveal/blob/main/sample.jpg)
