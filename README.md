@@ -12,6 +12,7 @@ This project is a simple python application for pixel reveal of an image. It all
 - Python
 - Tkinter
 - Numpy
+- OpenCV
 
 ## Usage
 
